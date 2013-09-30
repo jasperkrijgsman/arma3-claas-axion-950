@@ -1,23 +1,23 @@
-
 wheel
 =====
 front: Trelleborg 710/60 R30
- width: 710mm
- height: 710x.60=426mm
- diameter: 
- rim diameter: 30 inches=762mm
+ * width: 710mm
+ * height: 710x.60=426mm
+ * diameter: 
+ * rim diameter: 30 inches=762mm
 
 rear:  Trelleborg 800/70 R38
- width: 810mm
- height: 800x.70=560mm
- diameter: 2065mm
- rim diameter: 38 inches=965.2mm
+ * width: 810mm
+ * height: 800x.70=560mm
+ * diameter: 2065mm
+ * rim diameter: 38 inches=965.2mm
 
 steering
 ========
 Max. steering angle=50 degrees
 
-
-Centre of rear axle to top of cab (a)= 2427mm
-Overall height (b)=3452mm
-Wheelbase (c)=3150mm
+dimensions
+==========
+ * Centre of rear axle to top of cab (a)= 2427mm
+ * Overall height (b)=3452mm
+ * Wheelbase (c)=3150mm
