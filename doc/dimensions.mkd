@@ -21,3 +21,6 @@ dimensions
  * Centre of rear axle to top of cab (a)= 2427mm
  * Overall height (b)=3452mm
  * Wheelbase (c)=3150mm
+
+ * Weight without ballast=13060 kg
+ * Weight distribution with front linkage, without ballast (rear/front)=56%/44%
