@@ -5,6 +5,7 @@ front: Trelleborg 710/60 R30
  * height: 710x.60=426mm
  * diameter: 
  * rim diameter: 30 inches=762mm
+ * weight including rim=350kg
 
 rear:  Trelleborg 800/70 R38
  * width: 810mm
