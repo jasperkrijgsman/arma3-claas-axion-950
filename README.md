@@ -1,5 +1,6 @@
 arma3-claas-axion-950
 =====================
+There's a lot of farmland on Altis, but no tractor model(yet).
 
 useful links
 ============
@@ -12,7 +13,19 @@ useful links
  * [Selection Translations](http://community.bistudio.com/wiki/Translations)
  * [Modelling Tutorials](http://community.bistudio.com/wiki/Modelling_Tutorials)
  * [CfgVehicles Config Reference](http://community.bistudio.com/wiki/CfgVehicles_Config_Reference)
+
+sound
+-----
  * [Vehicle Sound Config](http://www.realitymod.com/forum/blogs/26436/b286-arma-2-vehicle-sound-config-tutorial-introduction.html)
+
+
+textures
+--------
+ * [Texturing](http://tactical.nekromantix.com/wiki/doku.php?id=arma:texturing)
+ * [ArmA Texture Naming Rules](http://tactical.nekromantix.com/wiki/doku.php?id=arma:texturing:texture_naming_rules)
+ * [Reflective Glass Tutorial](http://tactical.nekromantix.com/wiki/doku.php?id=arma:texturing:reflective_glass_tut)
+ * [Texturing Mud Tutorial](http://tactical.nekromantix.com/wiki/doku.php?id=arma:texturing:mud_texture_tut)
+ * [Texturing HOW-TO](http://tactical.nekromantix.com/wiki/doku.php?id=arma:texturing:texturing_howto)
 
 Youtube
 =======
