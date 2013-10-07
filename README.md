@@ -13,11 +13,12 @@ useful links
  * [Selection Translations](http://community.bistudio.com/wiki/Translations)
  * [Modelling Tutorials](http://community.bistudio.com/wiki/Modelling_Tutorials)
  * [CfgVehicles Config Reference](http://community.bistudio.com/wiki/CfgVehicles_Config_Reference)
+ * [ArmA 2 To ArmA 3 Port](http://tactical.nekromantix.com/wiki/doku.php?id=arma3:port-arma2)
+ * [Reference Sites](http://tactical.nekromantix.com/wiki/doku.php?id=reference_sites)
 
 sound
 -----
  * [Vehicle Sound Config](http://www.realitymod.com/forum/blogs/26436/b286-arma-2-vehicle-sound-config-tutorial-introduction.html)
-
 
 textures
 --------
