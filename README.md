@@ -2,6 +2,9 @@ arma3-claas-axion-950
 =====================
 There's a lot of farmland on Altis, but no tractor model(yet).
 
+![Model](https://raw.github.com/jasperkrijgsman/arma3-claas-axion-950/master/viewer.jpg)
+viewer.jpg
+
 useful links
 ============
  * [Arma 3 Cars Config Guidelines](http://community.bistudio.com/wiki/Arma_3_Cars_Config_Guidelines)
